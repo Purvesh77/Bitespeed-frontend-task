@@ -55,7 +55,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
    
    ``` bash
-   git clone https://github.com/yourusername/chatbot-flow-builder.git
+   git clone https://github.com/Purvesh77/Bitespeed-frontend-task
    cd BitWise-Frontend-Task
    ```
 2. Install the dependencies:
